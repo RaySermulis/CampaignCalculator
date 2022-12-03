@@ -1,0 +1,15 @@
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\bin\Debug\net6.0\CampainCalculator.Service.exe
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\bin\Debug\net6.0\CampainCalculator.Service.deps.json
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\bin\Debug\net6.0\CampainCalculator.Service.runtimeconfig.json
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\bin\Debug\net6.0\CampainCalculator.Service.dll
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\bin\Debug\net6.0\CampainCalculator.Service.pdb
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.csproj.AssemblyReference.cache
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.AssemblyInfoInputs.cache
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.AssemblyInfo.cs
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.csproj.CoreCompileInputs.cache
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.dll
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\refint\CampainCalculator.Service.dll
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.pdb
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\CampainCalculator.Service.genruntimeconfig.cache
+C:\WS\repos\CampainCalculator.Service\CampainCalculator.Service\obj\Debug\net6.0\ref\CampainCalculator.Service.dll
